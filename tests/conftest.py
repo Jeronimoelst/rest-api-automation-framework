@@ -1,0 +1,1 @@
+'''Vamos a trabajar las fixtures desde cero, entendiendo qué problema resuelven y cómo Pytest las ejecuta automáticamente.'''
